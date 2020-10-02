@@ -6,6 +6,7 @@ int main(){
 	// freopen("input.txt", "r",stdin);
 	// freopen("output.txt", "w",stdout);
 	// #endif
+	//abcdefghijklmnopqrstuvwxyz
 
 	int n,sum=0;
 	cin>>n;
